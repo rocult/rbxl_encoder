@@ -1,11 +1,7 @@
 {
   "aliases": {
     "pkgs": "./roblox_packages",
-    "core": "./src/core",
-    "modules": "./src/modules",
-    "shared": "./src/shared",
-    "types": "./src/types",
-    "src": "./src"
+    "modules": "./src/modules"
   },
   "globals": [],
   "languageMode": "strict",
