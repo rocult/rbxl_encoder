@@ -1,4 +1,4 @@
-# Example Project
+# `.rbxl` encoder
 
 An encoder that converts Roblox instances to the `.rbxl` binary file format.
 
