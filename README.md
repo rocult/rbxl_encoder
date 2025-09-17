@@ -1,12 +1,12 @@
 # Example Project
 
-This is an opinionated project layout, how I think you should layout your projects. View the chapters for each part below.
-
-## Documentation
-
-Please read the documentation on how to best use this template and installation. You can find it on the [docs branch here](https://github.com/rocult/script-template/tree/docs).
+An encoder that converts Roblox instances to the `.rbxl` binary file format.
 
 ## Building and Usage
+
+This script was created based upon a [template](https://github.com/rocult/script-template).
+Please read the documentation on how to best use this template and installation.
+You can find it on the [docs branch here](https://github.com/rocult/script-template/tree/docs).
 
 *If you don't want to read the documentation...*
 
