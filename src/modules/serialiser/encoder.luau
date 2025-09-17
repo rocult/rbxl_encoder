@@ -1,7 +1,5 @@
 --[[
     The encoder is a raw serializer with minimal checks and utility.
-
-    TODO: the buffer size is fixed and needs to be reallocated
 ]]
 
 -- // Dependencies

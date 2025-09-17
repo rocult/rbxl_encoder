@@ -1,5 +1,5 @@
 -- // Dependencies
-local RbxlEncoder = require("./encoder")
+local RbxlEncoder = require("@modules/serialiser/encoder")
 local TwoWayDict = require("@modules/two_way_dict")
 local Reflection = require("@modules/reflection")
 

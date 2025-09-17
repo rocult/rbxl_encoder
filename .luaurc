@@ -1,6 +1,7 @@
 {
   "aliases": {
     "pkgs": "./roblox_packages",
+    "functions": "./src/functions",
     "modules": "./src/modules"
   },
   "globals": [],
